@@ -17,16 +17,25 @@ body {
 
 .half_of_welcome {
     width: 50%;
-    margin-top: 20px;
+    /*margin-top: 20px;*/
 }
 
 .robin {
-    color: ;
+    color: #FFA500;
 }
 
-.linker {}
+.linker {
+    text-decoration: none;
+}
 
-p {}
+h1 {
+    font-size: 40px;
+}
+
+p {
+    text-align: justify;
+    color: #696969;
+}
 
 h3 {}
 
