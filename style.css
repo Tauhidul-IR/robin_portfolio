@@ -1,3 +1,35 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.wolcome_section {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.half_of_welcome {
+    width: 50%;
+    margin-top: 20px;
+}
+
+.robin {
+    color: ;
+}
+
+.linker {}
+
+p {}
+
+h3 {}
+
+img {
+    width: 100%;
 }
